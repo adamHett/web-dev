@@ -6,8 +6,11 @@ This repo is for developing a quality website with a purpose for developers to s
 How to get started:
 
 git clone https://github.com/YOUR-USERNAME/Spoon-Knife
+
 git remote -v
+
 git remote add upstream https://github.com/octocat/Spoon-Knife.git
+
 git remote -v
 
 Make sure you have Node v5.8.0 installed
