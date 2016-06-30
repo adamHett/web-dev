@@ -5,11 +5,11 @@ This repo is for developing a quality website with a purpose for developers to s
 
 How to get started:
 
-git clone https://github.com/YOUR-USERNAME/Spoon-Knife
+git clone https://github.com/YOUR-USERNAME/web-dev.git
 
 git remote -v
 
-git remote add upstream https://github.com/octocat/Spoon-Knife.git
+git remote add upstream https://github.com/nickhecht/web-dev.git 
 
 git remote -v
 
@@ -19,8 +19,8 @@ For those using Windows: http://www.cygwin.com/install.html
 
 Then run the server in the root directory:
 
-$ node index.html
+$ node src/app.js
 
-Finally you can run the game in your browser:
+Finally you can run the website in your browser:
 
 http://localhost:3000
